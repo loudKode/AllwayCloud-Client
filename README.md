@@ -5,8 +5,8 @@
 * upload download files folders
 * share files folders
 Send files to your 
-**Dropbox
-**pCloud
+*Dropbox
+*pCloud
 
 `Download:`
 [https://github.com/loudKode/AllwayCloud-Client/releases](https://github.com/loudKode/AllwayCloud-Client/releases)
