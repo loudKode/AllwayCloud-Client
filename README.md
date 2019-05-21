@@ -4,7 +4,7 @@
 * delete files folders
 * upload download files folders
 * share files folders
-Send files to your 
+* Send files to your 
 * * Dropbox
 * * pCloud
 
