@@ -13,5 +13,5 @@
 * `Help:`
 [https://github.com/loudKode/AllwayCloud-Client/wiki](https://github.com/loudKode/AllwayCloud-Client/wiki)
 
-![https://i.postimg.cc/W1VXwBJd/ure-Wiz334.png](https://i.postimg.cc/W1VXwBJd/ure-Wiz334.png)
+![https://i.postimg.cc/kMwMQxyx/ure-Wiz595.png](https://i.postimg.cc/kMwMQxyx/ure-Wiz595.png)
 
