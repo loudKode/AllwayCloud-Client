@@ -1,12 +1,10 @@
 # AllwayCloud-Client
 * client to manage your files in AllwayCloud
-* rename files folders
-* delete files folders
-* upload download files folders
-* share files folders
-* Send files to your 
+* rename, delete, upload, download, share files folders
+* Remotely send files to your account in:
 * * Dropbox
 * * pCloud
+* Integrate your account with 40+ cloud services
 
 `Download:`
 [https://github.com/loudKode/AllwayCloud-Client/releases](https://github.com/loudKode/AllwayCloud-Client/releases)
